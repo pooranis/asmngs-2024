@@ -1,5 +1,6 @@
 ---
-title: DiscoVir: pipeline for virome analysis
+title: DiscoVir pipeline for virome analysis
+subtitle: Nephele Microbiome Analysis
 ---
 
 Visit our poster #MBP-SUNDAY-655 on Sunday, June 16 at 10:30-11:30am or  3-4pm!
