@@ -1,10 +1,7 @@
 theme: minima
 title: Nephele at ASM Microbe 2024
-author: Poorani Subramanian
+author: Nephele Team, Bioinformatics and Computational Biosciences Branch, Office of Cyber Infrastructure and Computational Biology, NIAID
 description: Learn more about NIAID's web application and pipelines for microbiome analysis.
 email: nephelesupport@nih.gov
+website: https://nephele.niaid.nih.gov/
 
-# If you want to link only specific pages in your header, use this and add the path to the pages
-# in order as they should show up.
-header_pages:
-  - https://nephele.niaid.nih.gov/
