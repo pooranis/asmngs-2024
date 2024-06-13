@@ -4,7 +4,9 @@ title: DiscoVir pipeline for virome analysis
 
 ### What is Nephele?
 
-Nephele is NIAID's web application for microbial genomics and microbiome analysis **[nephele.niaid.nih.gov](https://nephele.niaid.nih.gov/)**
+Nephele is NIAID's web application for microbial genomics and microbiome analysis **[nephele.niaid.nih.gov](https://nephele.niaid.nih.gov/)**.  
+
+We have pipelines for [QC](https://nephele.niaid.nih.gov/user_guide_pipes/#qc_pipes), [amplicon](https://nephele.niaid.nih.gov/user_guide_pipes/#amplicon_pipes) and [shotgun metagenomics](https://nephele.niaid.nih.gov/user_guide_pipes/#wgs_pipes), as well as [SARS-CoV-2 viral variant analysis](https://nephele.niaid.nih.gov/user_guide_pipes/#sars_cov2_pipes).
 
 ### What is DiscoVir?
 
