@@ -8,7 +8,7 @@ Visit our poster #MBP-SUNDAY-655 on Sunday, June 16 at 10:30-11:30am or  3-4pm!
 
 ### What is Nephele?
 
-Nephele is NIAID's web application for Microbiome Analysis https://nephele.niaid.nih.gov/
+Nephele is NIAID's web application for Microbiome Analysis **[nephele.niaid.nih.gov](https://nephele.niaid.nih.gov/)**
 
 ### What is DiscoVir?
 
