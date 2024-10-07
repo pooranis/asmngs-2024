@@ -1,5 +1,5 @@
 ---
-title: LoRA\: A Long Read Assembly pipeline for microbiome data
+title: LoRA, A Long Read Assembly pipeline for microbiome data
 ---
 
 ### What is Nephele?
