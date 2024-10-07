@@ -18,7 +18,7 @@ The pipeline is equipped with user electable databases specific for host deconta
 MGBC) or functional inference (KEGG, MetaCyc), as well as features such as resistance gene finding, production and quality
 assessment of metagenome assembled genome (MAGs). 
 
-The LoRA pipeline will soon be available publicly and freely thruogh NIAID's microbial analysis platform [Nephele](https://nephele.niaid.nih.gov/).
+The LoRA pipeline will soon be available publicly and freely through NIAID's microbial analysis platform [Nephele](https://nephele.niaid.nih.gov/).
 
 Visit our poster 
 during **ASM NGS 2024**, 
