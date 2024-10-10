@@ -22,11 +22,15 @@ The LoRA pipeline will soon be available publicly and freely through NIAID's mic
 Meanwhile, an HPC clusterized version of the pipeline is available at [this GitHub repo for LoRA](https://github.com/angelovaag/LoRA_public)
 
 Visit our poster 
-during **ASM NGS 2024**, \
-at the Hyatt Regency Washington on Capitol Hill in Washington DC (400 New Jersey Ave NW, Washington, D.C. 20001), \
-on **Monday Oct 14th**, \ 
-In poster session I,  between 2:45-5:15pm  \
-At Poster Board number: **PIP-MON-135**. \
+during **ASM NGS 2024**, 
+
+at the Hyatt Regency Washington on Capitol Hill in Washington DC (400 New Jersey Ave NW, Washington, D.C. 20001), 
+
+on **Monday Oct 14th**, 
+
+In poster session I,  between 2:45-5:15pm  
+
+At Poster Board number: **PIP-MON-135**.
 
 
 
